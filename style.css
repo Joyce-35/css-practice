@@ -1,0 +1,34 @@
+.navibar{
+	height:15%;
+	background-color:yellow;
+}
+
+.mojor-box{
+	height:100vh;
+
+}
+
+.section{
+	height:35%;
+	background-color:yellow;
+	margin-top:15px;
+}
+
+.articles{
+	height:35%;
+	margin-top:10px;
+	margin-bottom:10px;
+	display:flex;
+	justify-content:space-between;
+}
+.articles div{
+	width:30%;
+	background-color:yellow;
+
+}
+
+.footer{
+	height:20%;
+	background-color:yellow;
+	margin-top:15px;
+}
